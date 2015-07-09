@@ -1,6 +1,4 @@
----
-layout: base
----
+
 
 I'm a	second year PhD student at BSIO (Berlin School of Integrative Oncology, Charité – Universitätsmedizin Berlin) in the group of Prof. Nils Blüthgen, Computational Modelling in Medicine. We're associated with the Institute for Theoretical Biology (Humboldt-University of Berlin), the Laboratory of Molecular Tumour Pathology (Charité – Universitätsmedizin Berlin) and the Integrative Research Institute (IRI) for the Life Sciences.
 
