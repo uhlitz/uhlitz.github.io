@@ -1,1 +1,3 @@
-{% markdown my_content.md %}
+<div>{% capture my_include %}{% include my_content.md %}{% endcapture %}
+{{ my_include | markdownify }}</div>
+<p></p>
