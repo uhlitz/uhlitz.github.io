@@ -25,7 +25,7 @@ I'm interested in how MAP kinase signalling modulates RNA dynamics. My goal is t
 * Thesis: Investigations on the optimization of the in vitro culture of Eimeria falciformis
 * Supervisors: Dr. Simone Spork, Prof. Dr. Richard Lucius, Dept. of Molecular Parasitology, HU Berlin
 
-## Course work
+## Workshops
 
 2015 - [Posttranscriptional Gene Regulation](http://enseignement.curie.fr/en/content/1st-course-post-transcriptional-gene-regulation-mechanisms-heart-networks-2014), Institut Curie (Paris)
 

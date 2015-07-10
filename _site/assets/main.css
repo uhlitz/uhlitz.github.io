@@ -68,11 +68,12 @@ since it must be aligned with the content */
 /******/
 hr {
   border: 0;
-  height: 1px;
-  background-image: -webkit-linear-gradient(left, transparent, #303030, transparent);
-  background-image: -moz-linear-gradient(left, transparent, #303030, transparent);
-  background-image: -ms-linear-gradient(left, transparent, #303030, transparent);
-  background-image: -o-linear-gradient(left, transparent, #303030, transparent); }
+  border-bottom: 1px dashed #ccc;
+  background: #999;
+  /*background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
+  background-image: -moz-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
+  background-image: -ms-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
+  background-image: -o-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));*/ }
 
 /*** footer ***/
 footer {
