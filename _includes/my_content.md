@@ -5,6 +5,14 @@ I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin Sch
 
 I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics. 
 
+## Conference Talks
+
+06/2015	-  _How to be late. Strategies of Gene Induction_ @ Overcoming Treatment Barriers in Cancer, Young Scientist Satellite Meeting, Charité, Berlin.
+
+11/2014	- _RNA half lives and transcriptional delays shape response profiles to MAP kinase signalling_ @ 4th Annual Epigenesys Meeting, Centre of Genomic Regulation (CRG), Barcelona.
+
+08/2014	- _Investigations on Regulation of the Transcriptome in RAF Signalling_ @ 8th q-bio Student Symposium, UNM, Albuquerque, NM, USA.
+
 ## Education
 
 2011-2013	- Master of Science in Molecular Life Science, Humboldt-University of Berlin, Germany
@@ -16,14 +24,6 @@ I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is 
 
 * Thesis: Investigations on the optimization of the in vitro culture of Eimeria falciformis
 * Supervisors: Dr. Simone Spork, Prof. Dr. Richard Lucius, Dept. of Molecular Parasitology, HU Berlin
-
-## Conference Talks
-
-06/2015	-  _How to be late. Strategies of Gene Induction_ @ Overcoming Treatment Barriers in Cancer, Young Scientist Satellite Meeting, Charité, Berlin.
-
-11/2014	- _RNA half lives and transcriptional delays shape response profiles to MAP kinase signalling_ @ 4th Annual Epigenesys Meeting, Centre of Genomic Regulation (CRG), Barcelona.
-
-08/2014	- _Investigations on Regulation of the Transcriptome in RAF Signalling_ @ 8th q-bio Student Symposium, UNM, Albuquerque, NM, USA.
 
 ## Course work
 
@@ -37,10 +37,12 @@ I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is 
 
 2014-2017	- Phd Scholarship, Berlin School of Integrative Oncology
 
-2014 - Travel Award, New Mexico Conssortium
+2015 - FEBS Young Scientists Forum Travel Grand
+
+2014 - New Mexico Conssortium Travel Grand
 
 ---
 
-This landing page was created with help of [jekyll](http://jekyllrb.com/) and [compass](https://github.com/excentris/compass). Last updated at .
+This landing page was created with help of [jekyll](http://jekyllrb.com/) and [compass](https://github.com/excentris/compass). Last updated at July 10, 2015.
 
 
