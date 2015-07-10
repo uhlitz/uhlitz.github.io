@@ -131,8 +131,10 @@ footer {
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
 	header {
-		float: left;
-		width: 46%;
+		position: fixed;
+		margin-right: 100vw;
+		margin-left: 0vw;
+		width: 25vw;
 		text-align: right;
 	}
 
@@ -143,8 +145,9 @@ footer {
 	}
 
 	main {
-		width: 46%;
-		margin-left: 54%;
+		width: 30vw;
+		margin-left: 30vw;
+		margin-right: 40vw;
 		padding: 0;
 	}
 }

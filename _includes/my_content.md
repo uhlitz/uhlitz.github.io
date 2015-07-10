@@ -3,7 +3,7 @@ I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin Sch
 
 ## Research Interest
 
-I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics. 
+I'm interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics. 
 
 ## Conference Talks
 
@@ -43,6 +43,6 @@ I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is 
 
 ---
 
-This landing page was created with help of [jekyll](http://jekyllrb.com/) and [compass](https://github.com/excentris/compass). Last updated at July 10, 2015.
+This landing page was created with help of [jekyll](http://jekyllrb.com/),  [compass](https://github.com/excentris/compass) and [decode](https://github.com/ScottSmith95/Decode). Last updated at July 10, 2015.
 
 
