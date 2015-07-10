@@ -1,6 +1,9 @@
 
+I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin School of Integrative Oncology) in the group of Prof. Nils Blüthgen, [Computational Modelling in Medicine](http://sys-bio.net/). We're associated with the [Institute for Theoretical Biology](https://itb.biologie.hu-berlin.de/wiki/) at Humboldt-University of Berlin, the [Laboratory of Molecular Tumour Pathology](http://mtp.charite.de/) at Charité and the [IRI Life Sciences](http://www.iri-lifesciences.de/en/home.html).
 
-I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin School of Integrative Oncology, Charité – Universitätsmedizin Berlin) in the group of Prof. Nils Blüthgen, [Computational Modelling in Medicine](http://sys-bio.net/). We're associated with the [Institute for Theoretical Biology](https://itb.biologie.hu-berlin.de/wiki/) (Humboldt-University of Berlin), the [Laboratory of Molecular Tumour Pathology](http://mtp.charite.de/) (Charité – Universitätsmedizin Berlin) and the [IRI Life Sciences](http://www.iri-lifesciences.de/en/home.html).
+## Research Interest
+
+I am interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics. 
 
 ## Education
 
@@ -38,6 +41,6 @@ I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin Sch
 
 ---
 
-This landing page was created with help of [jekyll](http://jekyllrb.com/) and [compass](https://github.com/excentris/compass).
+This landing page was created with help of [jekyll](http://jekyllrb.com/) and [compass](https://github.com/excentris/compass). Last updated at .
 
 
