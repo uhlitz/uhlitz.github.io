@@ -43,6 +43,6 @@ I'm interested in how MAP kinase signalling modulates RNA dynamics. My goal is t
 
 ---
 
-This landing page was created with help of [jekyll](http://jekyllrb.com/),  [compass](https://github.com/excentris/compass) and [decode](https://github.com/ScottSmith95/Decode). Last updated at July 10, 2015.
+This landing page was created with help of [jekyll](http://jekyllrb.com/), [compass](https://github.com/excentris/compass), [FontAwesome](https://fortawesome.github.io/Font-Awesome/) and [AcademIcons](https://jpswalsh.github.io/academicons/). Last updated at <span>{% last_modified_at %}</span>.
 
 
