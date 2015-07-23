@@ -21,8 +21,8 @@ compass:
 # Dependencies
 markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-last-modified-at
+#gems:
+#  - jekyll-last-modified-at
 
 # Permalinks
 permalink: pretty
