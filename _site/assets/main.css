@@ -75,9 +75,9 @@ since it must be aligned with the content */
   margin-bottom: 1em;
   margin-top: 1em; }
 
-.fa-icon-container {
-  display: flex;
-  justify-content: center; }
+.icon-container {
+  width: calc(32px * 4 + 4px * 3);
+  margin: auto; }
 
 /******/
 hr {
@@ -116,9 +116,8 @@ footer {
   .wrapper {
     width: 680px; }
 
-  .fa-icon-container {
-    display: flex;
-    justify-content: flex-end; }
+  .icon-container {
+    width: 100%; }
 
   /* the header column stays left and has a dynamic width with all contents
   aligned right */
