@@ -75,6 +75,9 @@ since it must be aligned with the content */
   margin-bottom: 1em;
   margin-top: 1em; }
 
+.address-container p {
+  text-align: center; }
+
 .icon-container {
   width: calc(32px * 4 + 4px * 3);
   margin: auto; }
@@ -118,6 +121,9 @@ footer {
 
   .icon-container {
     width: 100%; }
+
+  .address-container p {
+    text-align: right; }
 
   /* the header column stays left and has a dynamic width with all contents
   aligned right */
