@@ -1,23 +1,25 @@
 ---
 layout: base
 ---
+<div itemscope itemtype="http://schema.org/Person">
 <div class="wrapper">
     <header>
         {% if site.compass.logo %}
         <div class="logo-container">
-          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+          <a class="logo" itemprop="url" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')" alt="Florian Uhlitz"></a>
+          <img itemprop="image" src="{{ site.baseurl }}{{ site.compass.logo }}" height="0" width="0" alt="Florian Uhlitz"/>
         </div>
         {% endif %}
 
         {% if site.compass.author %}
-        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
+        <div class="author-container" itemprop="name"><h1>{{ site.compass.author }}</h1></div>
         {% endif %}
 
         {% if site.compass.tagline %}
         <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
         {% endif %}
         <div class="address-container"><p>
-            florian.uhlitz [at] charite.de<br>
+            florian.uhlitz@charite.de<br>
             Charité - Universitätsmedizin Berlin<br>
             Invalidenstr. 43, Room 2314<br>
             +4930 2093 8951</p></div>
@@ -55,4 +57,5 @@ layout: base
       </div>
       {% endif %}
     </main>
+</div>
 </div>

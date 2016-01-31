@@ -8,12 +8,12 @@
   <link rel="apple-touch-icon" href="/images/me.jpg"/>
   <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="http://excentris.net/favicon.ico" />
 
-  <link rel="stylesheet" href="/assets/normalize.css">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="stylesheet" href="/assets/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/ionicons.min.css">
-  <link rel="stylesheet" href="/assets/academicons.css">
-  <link rel="stylesheet" href="/assets/vollkorn.css">
+  <link rel="stylesheet" href="/assets/css/normalize.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/font-awesome.css">
+  <link rel="stylesheet" href="/assets/css/ionicons.css">
+  <link rel="stylesheet" href="/assets/css/academicons.css">
+  <link rel="stylesheet" href="/assets/css/vollkorn.css">
 
   <link rel="canonical" href="http://excentris.net/">
 
@@ -45,24 +45,26 @@ forget to set the include_analytics attribute to true on the _config.yml file --
 </head>
 
   <body>
-
-  <div class="wrapper">
+  
+  <div itemscope itemtype="http://schema.org/Person">
+<div class="wrapper">
     <header>
         
         <div class="logo-container">
-          <a class="logo" href="" style="background-image: url('/images/me.jpg')"></a>
+          <a class="logo" itemprop="url" href="" style="background-image: url('/images/me.jpg')" alt="Florian Uhlitz"></a>
+          <img itemprop="image" src="/images/me.jpg" height="0" width="0" alt="Florian Uhlitz"/>
         </div>
         
 
         
-        <div class="author-container"><h1>Florian Uhlitz</h1></div>
+        <div class="author-container" itemprop="name"><h1>Florian Uhlitz</h1></div>
         
 
         
         <div class="tagline-container"><p>Molecular Biologist and R Enthusiast</p></div>
         
         <div class="address-container"><p>
-            florian.uhlitz [at] charite.de<br>
+            florian.uhlitz@charite.de<br>
             Charité - Universitätsmedizin Berlin<br>
             Invalidenstr. 43, Room 2314<br>
             +4930 2093 8951</p></div>
@@ -98,7 +100,9 @@ forget to set the include_analytics attribute to true on the _config.yml file --
       <div class="content">
         <div>
 
-<p>I’m a	third year PhD student at <a href="http://bsio-cancerschool.de">BSIO</a> (Berlin School of Integrative Oncology) in the group of Prof. Nils Blüthgen, <a href="http://sys-bio.net/">Computational Modelling in Medicine</a>. We’re associated with the <a href="https://itb.biologie.hu-berlin.de/wiki/">Institute for Theoretical Biology</a> at Humboldt-University of Berlin, the <a href="http://mtp.charite.de/">Laboratory of Molecular Tumour Pathology</a> at Charité and the <a href="http://www.iri-lifesciences.de/en/home.html">IRI Life Sciences</a>.</p>
+<div itemprop="description">  
+I'm a	third year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin School of Integrative Oncology) in the group of Prof. Nils Blüthgen, [Computational Modelling in Medicine](http://sys-bio.net/). We're associated with the [Institute for Theoretical Biology](https://itb.biologie.hu-berlin.de/wiki/) at Humboldt-University of Berlin, the [Laboratory of Molecular Tumour Pathology](http://mtp.charite.de/) at Charité and the [IRI Life Sciences](http://www.iri-lifesciences.de/en/home.html).
+</div>
 
 <h2 id="i-classicon-ion-erlenmeyer-flask-stylefont-size-20pxinbsp-research-interest"><i class="icon ion-erlenmeyer-flask" style="font-size: 20px;"></i>  Research Interest</h2>
 
@@ -164,7 +168,7 @@ _ERK signal duration controls expression of immediate long-lived genes._ Submitt
       
     </main>
 </div>
-
-
+</div>
+  
   </body>
 </html>

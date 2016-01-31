@@ -1,5 +1,8 @@
 
+  
+<div itemprop="description">  
 I'm a	third year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin School of Integrative Oncology) in the group of Prof. Nils Blüthgen, [Computational Modelling in Medicine](http://sys-bio.net/). We're associated with the [Institute for Theoretical Biology](https://itb.biologie.hu-berlin.de/wiki/) at Humboldt-University of Berlin, the [Laboratory of Molecular Tumour Pathology](http://mtp.charite.de/) at Charité and the [IRI Life Sciences](http://www.iri-lifesciences.de/en/home.html).
+</div>
 
 ## <i class="icon ion-erlenmeyer-flask" style="font-size: 20px;"></i>&nbsp; Research Interest
 
