@@ -6,14 +6,17 @@ I'm a	third year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin Scho
 
 I'm interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics.
 
-<!--
 ## <i class="icon ion-document-text" style="font-size: 20px;"></i>&nbsp; Publications
 
-Uhlitz F, Sieber A, Fritsche-Günther R, Wyler E, Meisig J, Landthaler M, Klinger B, Blüthgen, N. 
-_ERK signal duration controls expression of immediate long-lived genes._ Submitted, 2016. 
--->
+Uhlitz F, Sieber A, Wyler E, Fritsche-Günther R, Meisig J, Landthaler M, Klinger B, Blüthgen, N. 
+_An immediate–late gene expression module decodes ERK signal duration._ Molecular Systems Biology 2017 (13, 928). [[web]](http://msb.embopress.org/content/13/5/928) [[pdf]](http://msb.embopress.org/content/13/5/928.full.pdf)
+
+Ünal E Besray, Uhlitz F, Blüthgen N. 
+_A Compendium of ERK targets._ FEBS Letters, 2017 (17, 591). [[web]](http://onlinelibrary.wiley.com/doi/10.1002/1873-3468.12740/full) [[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/1873-3468.12740/epdf)
 
 ## <i class="icon ion-chatbubbles" style="font-size: 20px;"></i>&nbsp; Conference Talks
+
+06/2017	- _An immediate–late gene expression module decodes ERK signal duration_ @ Gene Regulation by the Numbers, IMB, Mainz.
 
 10/2015	- _Immediate long-lived genes decode ERK signal duration and respond late_ @ Computational Modeling of Gene Expression and its Evolution, Tel Aviv University, Tel Aviv.
 
@@ -35,7 +38,9 @@ _ERK signal duration controls expression of immediate long-lived genes._ Submitt
 * Thesis: Investigations on the optimization of the in vitro culture of Eimeria falciformis
 * Supervisors: Dr. Simone Spork, Prof. Dr. Richard Lucius, Dept. of Molecular Parasitology, HU Berlin
 
-## <i class="icon ion-settings" style="font-size: 20px;"></i>&nbsp; Workshops
+## <i class="icon ion-settings" style="font-size: 20px;"></i>&nbsp; Attended workshops
+
+2016 - [Advanced RNA-Seq Analysis](https://www.ebi.ac.uk/training/events/2016/advanced-rna-seq-analysis), European Bioinformatics Institute (Cambridge, UK)
 
 2015 - [Posttranscriptional Gene Regulation](http://enseignement.curie.fr/en/content/1st-course-post-transcriptional-gene-regulation-mechanisms-heart-networks-2014), Institut Curie (Paris)
 

@@ -1,6 +1,7 @@
 # general configuration
-url: http://excentris.net
-baseurl: ''
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+title: "Florian Uhlitz"
 
 # compass configuration
 compass:
