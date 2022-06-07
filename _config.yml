@@ -1,7 +1,7 @@
 # general configuration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-title: "Florian Uhlitz"
+title: "Dr. Florian Uhlitz"
 
 # compass configuration
 compass:
@@ -10,7 +10,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Florian Uhlitz"
   # tagline will appear under the title (optional)
-  tagline: "Molecular Biologist and R Enthusiast"
+  tagline: "Computational Biologist"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
